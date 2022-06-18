@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bmi calculator Cool</string>
+    <string name="app_title">BMI CALCULATOR</string>
+    <string name="text_bmi_result">YOUR BMI IS:</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="enter_your_height">Enter Your Height</string>
+    <string name="enter_your_weight">Enter your weight</string>
+</resources>
